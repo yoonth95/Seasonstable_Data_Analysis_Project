@@ -1,4 +1,5 @@
 # Seasonstable_Data_Analysis_Project
+[계절밥상 분석 및 마케팅 방안](https://github.com/yoonth95/Seasonstable_Data_Analysis_Project/blob/master/%EA%B3%84%EC%A0%88%EB%B0%A5%EC%83%81%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 ## 1. Overview
 - Organization : 한경닷컴IT교육센터
